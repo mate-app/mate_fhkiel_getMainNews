@@ -53,7 +53,7 @@
 * CD for deployment on push to master to dev-project and on new tag to production-project
 
 ## How To Use
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed on your computer. It is tested with Python 3.8. Then from your command line run:
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed on your computer. Then from your command line run:
 
 ```bash
 # Clone this repository
